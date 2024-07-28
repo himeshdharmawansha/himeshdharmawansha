@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Himesh Dharmawansha</h1>
-<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himeshdharmawansha&label=Profile%20views&color=0e75b6&style=flat" alt="himeshdharmawansha" /> </p>
 
